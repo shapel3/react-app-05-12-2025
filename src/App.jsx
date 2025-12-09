@@ -1,9 +1,7 @@
+import Picture from "./components/Picture/Picture";
+
 function App() {
-  return (
-    <>
-     
-    </>
-  );
+  return <>
 }
 
 export default App;
